@@ -1,0 +1,45 @@
+.logo {
+	height:50px;
+	width:150px;
+}
+
+.red {
+	color:red;
+}
+
+.blue {
+	background:blue;
+	color:#fff;
+	height:70px;
+	width:100px;
+}
+
+.m {
+	margin-top: 90px;
+}
+
+.b {
+	border: 1px solid #000;
+}
+
+h2 {
+	color: #fff;
+	background: green;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+.p {
+	padding: 40px 40px;
+}
+
+.pad {
+	padding-left: 90px;
+}
+
+li {
+	font-size: 30px;
+	border:1px 1px;
+}
