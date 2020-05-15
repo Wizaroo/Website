@@ -1,5 +1,4 @@
 .logo {
-	height:50px;
 	width:150px;
 }
 
@@ -10,7 +9,7 @@
 .blue {
 	background:blue;
 	color:#fff;
-	height:70px;
+	padding:2px;
 	width:100px;
 }
 
