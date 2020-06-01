@@ -167,4 +167,5 @@ h3{
 	display: flex;
 	justify-content: center;
 	margin-top: 58px;
+	flex-direction: column;
 }
