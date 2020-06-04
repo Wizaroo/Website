@@ -191,7 +191,7 @@ h3{
 		line-height: 2em;
 	}
 	.illustration{
-		width: 100%;
+		width: 540px;
 	}
 }
 
@@ -210,6 +210,9 @@ h3{
 		width: auto;
 		margin: 0;
 		padding: 0;
+	}
+	.illustration{
+		width: 100%;
 	}
 	.descriptor{
 		width: auto;
@@ -254,19 +257,22 @@ h3{
 	}
 	.input{
 		width: 100%;
-		padding-top: 15px;
-		padding-bottom: 18px;
-		padding-left: 23px;
-		padding-right: 0;
+		height: 48px;
+		padding: 1px 1px 3px 23px;
 		display: flex;
 		justify-content: center;
+		margin-bottom: 16px;
+		margin-top: auto;
+		margin-left: auto;
+		margin-right: auto;
+		box-sizing: border-box;
 	}
 	.form{
-		display: flex;
-		justify-content: center;
-		margin-top: 58px;
-		flex-direction: column;
+		width: 100%;
+		box-sizing: border-box;
+		display: block;
 	}
+	
 }
 
 /* 0px - 576px */
